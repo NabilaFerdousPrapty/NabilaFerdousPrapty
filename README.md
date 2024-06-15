@@ -1,7 +1,6 @@
-# Hi there, I'm Nabila Ferdous Prapty 👋
+# Hi there, I'm Nabila Ferdous Prapty! 👋
 
 ![Banner Image](https://i.ibb.co/w7m3zzG/output-onlinegiftools-1.gif)
-
 
 ## Welcome to My GitHub Profile
 
@@ -11,42 +10,40 @@ Explore my projects and contributions in the world of technology and engineering
 
 Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at RUET with a passion for technology and problem-solving. As a Front-End Developer, I specialize in HTML, CSS, JavaScript, and have hands-on experience with React JS, Express JS, and MongoDB CRUD operations.
 
-### Web Development Skills
+### Skills
 
 #### Frontend
 
-- ![React](https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952yehfpm7f3rtcd302yll171oepwriu70ygwlmskh0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s) React
-- ![HTML5](https://i.gifer.com/embedded/download/DEnd.gif) HTML5
-- ![CSS3](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif) CSS3
-- ![JavaScript](https://assets-v2.lottiefiles.com/a/edd9e57c-1175-11ee-923c-97d89504acf4/l26hXkGwri.gif) JavaScript
-- ![Tailwind CSS](https://trapfether.gallerycdn.vsassets.io/extensions/trapfether/tailwind-raw-reorder/3.2.0/1706903284985/Microsoft.VisualStudio.Services.Icons.Default) Tailwind CSS
-- ![Bootstrap](https://miro.medium.com/v2/resize:fit:512/1*6fzxZyDPD_8RRsmHpQr-vw.gif) Bootstrap
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+    <img src="https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952yehfpm7f3rtcd302yll171oepwriu70ygwlmskh0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="React" width="200" height="200">
+    <img src="https://i.gifer.com/embedded/download/DEnd.gif" alt="HTML5" width="200" height="200">
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="200" height="200">
+    <img src="https://assets-v2.lottiefiles.com/a/edd9e57c-1175-11ee-923c-97d89504acf4/l26hXkGwri.gif" alt="JavaScript" width="200" height="200">
+    <img src="https://trapfether.gallerycdn.vsassets.io/extensions/trapfether/tailwind-raw-reorder/3.2.0/1706903284985/Microsoft.VisualStudio.Services.Icons.Default" alt="Tailwind CSS" width="200" height="200">
+    <img src="https://miro.medium.com/v2/resize:fit:512/1*6fzxZyDPD_8RRsmHpQr-vw.gif" alt="Bootstrap" width="200" height="200">
+</div>
 
 #### Backend
 
-- ![Node.js](https://user-images.githubusercontent.com/97989643/224550089-f2541ade-c5c6-4afa-8538-51a8dda4e23b.gif) Node.js
-- ![Express.js](https://miro.medium.com/v2/resize:fit:1400/1*5ZLTnnDA1pHRtwXvxq_LAg.png) Express.js
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+    <img src="https://user-images.githubusercontent.com/97989643/224550089-f2541ade-c5c6-4afa-8538-51a8dda4e23b.gif" alt="Node.js" width="200" height="200">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*5ZLTnnDA1pHRtwXvxq_LAg.png" alt="Express.js" width="200" height="200">
+</div>
 
 #### Database
 
-- ![MongoDB](https://miro.medium.com/v2/resize:fit:1200/0*GTTsEc-bsWoqcOoM.gif) MongoDB
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+    <img src="https://miro.medium.com/v2/resize:fit:1200/0*GTTsEc-bsWoqcOoM.gif" alt="MongoDB" width="200" height="200">
+</div>
 
 #### Authentication & Hosting
 
-- ![Firebase](https://cdn.dribbble.com/users/6295/screenshots/2923288/firebaseload.gif) Firebase
-- ![Netlify](https://cdn.sanity.io/images/o0o2tn5x/production/853f17bcb1c0c264dab052006ef61fcf2893987f-1200x675.gif?) Netlify
-- ![Surge](https://i.pinimg.com/originals/42/42/6c/42426c87c13178f2fb2c390037ddb9fa.gif) Surge
-- ![Vercel](https://miro.medium.com/v2/resize:fit:1400/0*YA1PkhijqVKXdDye.gif) Vercel
-
-#### Version Control
-
-- ![Git](https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif) Git
-- ![GitHub](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif) GitHub
-
-#### Other Technologies
-
-- ![REST APIs](https://lordicon.com/icons/wired/lineal/1330-rest-api.gif) REST APIs
-- ![Babel](https://media.licdn.com/dms/image/C5612AQEvbaMlZBNfsg/article-cover_image-shrink_600_2000/0/1630107954966?e=2147483647&v=beta&t=9iwEMR4e-IgWRFvFMSCCuiKQ_uqzOoEmTcr7gInDeb8) Babel
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+    <img src="https://cdn.dribbble.com/users/6295/screenshots/2923288/firebaseload.gif" alt="Firebase" width="200" height="200">
+    <img src="https://cdn.sanity.io/images/o0o2tn5x/production/853f17bcb1c0c264dab052006ef61fcf2893987f-1200x675.gif?" alt="Netlify" width="200" height="200">
+    <img src="https://i.pinimg.com/originals/42/42/6c/42426c87c13178f2fb2c390037ddb9fa.gif" alt="Surge" width="200" height="200">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*YA1PkhijqVKXdDye.gif" alt="Vercel" width="200" height="200">
+</div>
 
 ## Contact Me
 
@@ -60,7 +57,7 @@ I'm always open to collaborating on projects and learning new things. If you hav
 
 ---
 
-## 🔥 My Stats:
+## 🔥 My Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NabilaFerdousPrapty&theme=dark&hide_border=false)
 
