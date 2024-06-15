@@ -1,6 +1,6 @@
 # Hi there, I'm Nabila Ferdous Prapty 👋
 
-![Banner Image](https://yourbannerimageurl.com)
+![Banner Image](https://i.ibb.co/CP97V6n/Screenshot-2024-06-15-031730-removebg-preview.png)
 
 ## About Me
 
