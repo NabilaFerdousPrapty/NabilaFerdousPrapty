@@ -1,6 +1,6 @@
 # Hi there, I'm Nabila Ferdous Prapty! 👋
 
-![Banner Image](https://i.ibb.co/w7m3zzG/output-onlinegiftools-1.gif)
+<img src="https://i.ibb.co/w7m3zzG/output-onlinegiftools-1.gif" alt="Banner Image" style="max-height: 200px; width: 100%;">
 
 ## Welcome to My GitHub Profile
 
