@@ -68,5 +68,12 @@ I'm always open to collaborating on projects and learning new things. If you hav
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilaFerdousPrapty&layout=compact&theme=radical)
 
 ---
+### Social Media
+
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](YOUR_LINKEDIN_PROFILE_URL)
+[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](YOUR_TWITTER_PROFILE_URL)
+[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](YOUR_DISCORD_PROFILE_URL)
+[![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](YOUR_YOUTUBE_CHANNEL_URL)
+
 
 ## Thank you for visiting my GitHub profile! 🙌
