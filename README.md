@@ -92,11 +92,7 @@ I'm always open to collaborating on projects and learning new things. If you hav
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilaFerdousPrapty&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NabilaFerdousPrapty/NabilaFerdousPrapty/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
