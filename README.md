@@ -16,7 +16,6 @@ I'm dedicated to delivering top-notch solutions that prioritize user needs. Read
 
 ### Frontend Development
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -40,27 +39,8 @@ I'm dedicated to delivering top-notch solutions that prioritize user needs. Read
 
 ### Other Technologies
 - ![REST APIs](https://img.shields.io/badge/-REST%20APIs-00599C?logo=api&logoColor=white&style=flat)
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
-- ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat)
 - ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat)
 
-## Projects
-
-### [AltProdInsights](https://altprodinsights.web.app/)
-A web application designed to provide users with information about alternative products, featuring:
-- User queries and recommendations
-- Personalized suggestions
-- Responsive design with dark/light theme toggle
-- Authentication with email/password and social login
-
-**Client-Side:** [GitHub Repository](https://github.com/NabilaFerdousPrapty/Alt-Prod-Insights-Client)  
-**Server-Side:** [GitHub Repository](https://github.com/NabilaFerdousPrapty/Alt-Prod-Insights-Server)
-
-### [Project Name]
-A brief description of the project, its features, and technologies used.
-
-**Client-Side:** [GitHub Repository Link]  
-**Server-Side:** [GitHub Repository Link]
 
 ## Contact Me
 
