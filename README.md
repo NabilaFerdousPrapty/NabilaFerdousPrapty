@@ -49,7 +49,7 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;">
     <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" alt="Git" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" alt="GitHub" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" alt="GitHub" width="150" height="150">
     <img src="https://lordicon.com/icons/wired/lineal/1330-rest-api.gif" alt="REST APIs" width="150" height="150">
     <img src="https://ih1.redbubble.net/image.344706868.3811/tst,small,845x845-pad,1000x1000,f8f8f8.u3.jpg" alt="ES6" width="150" height="150">
     <img src="https://lordicon.com/icons/wired/gradient/1320-json.gif" alt="JSON" width="150" height="150">
@@ -64,7 +64,7 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
 
 ## Contact Me
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](www.linkedin.com/in/nabila-ferdous)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/nabila-ferdous)
 [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](http://discordapp.com/users/980519241738489917)
 [![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@nabilaprapty5408)
 
