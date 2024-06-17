@@ -23,11 +23,12 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
     <img src="https://miro.medium.com/v2/resize:fit:512/1*6fzxZyDPD_8RRsmHpQr-vw.gif" alt="Bootstrap" width="150" height="150">
 </div>
 
-#### Backend
+#### Backend 
+
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
-    <img src="https://user-images.githubusercontent.com/97989643/224550089-f2541ade-c5c6-4afa-8538-51a8dda4e23b.gif" alt="Node.js" width="150" height="150">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*5ZLTnnDA1pHRtwXvxq_LAg.png" alt="Express.js" width="150" height="150">
+    <img src="https://i.ibb.co/Y7vCq2w/224550089-f2541ade-c5c6-4afa-8538-51a8dda4e23b.gif" alt="Node.js" width="150" height="150">
+    <img src="https://i.ibb.co/ZVqZbGz/expressjs.gif" alt="Express.js" width="150" height="150">
 </div>
 
 #### Database
@@ -45,7 +46,23 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
     <img src="https://miro.medium.com/v2/resize:fit:1400/0*YA1PkhijqVKXdDye.gif" alt="Vercel" width="150" height="150">
 </div>
 
+#### Other Technologies
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;">
+    <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" alt="Git" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" alt="GitHub" width="150" height="150">
+    <img src="https://lordicon.com/icons/wired/lineal/1330-rest-api.gif" alt="REST APIs" width="150" height="150">
+    <img src="https://ih1.redbubble.net/image.344706868.3811/tst,small,845x845-pad,1000x1000,f8f8f8.u3.jpg" alt="ES6" width="150" height="150">
+    <img src="https://lordicon.com/icons/wired/gradient/1320-json.gif" alt="JSON" width="150" height="150">
+    <img src="https://lh4.googleusercontent.com/proxy/WLvt5lbV4YdD7eQoXkM3QKjG_Yh-vtqit6hort3OmEnx7NCBKE3MZASCr4iWlqVGIt1_OjIBtTMJuzzYjLJbpxObKUPVC4qgewnxV3T4GMKk-uBuahUAKJs" alt="JWT" width="150" height="150">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTyuFXQDDOUPdafq8kkiBQ1Ai-ovU_avXecDIkszkPTeOxZ5R8H8g99xl6vRfQH-w4BA&usqp=CAU" alt="Axios" width="150" height="150">
+    <img src="https://tanstack.com/_build/assets/og-pGgYlhyc.png" alt="TanStack Query" width="150" height="150">
+    <img src="https://cdn.dribbble.com/users/920/screenshots/3031540/untitled-3.gif" alt="Stripe" width="150" height="150">
+    <img src="https://futurestartup.b-cdn.net/wp-content/uploads/2018/02/SSL-commerz-Web_GIF-1.gif" alt="SSLCOMMERZ" width="150" height="150">
+</div>
+
 ### Social Media
+
 ## Contact Me
 
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/nabila-ferdous-prapty/)
@@ -69,9 +86,5 @@ I'm always open to collaborating on projects and learning new things. If you hav
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilaFerdousPrapty&layout=compact&theme=radical)
 
 ---
-
-
-
-
 
 ## Thank you for visiting my GitHub profile! 🙌
