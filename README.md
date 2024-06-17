@@ -79,10 +79,9 @@ I'm always open to collaborating on exciting projects and embracing new challeng
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NabilaFerdousPrapty&theme=dark&hide_border=false)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NabilaFerdousPrapty&theme=darkhub&no-frame=true&margin-w=15)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabilaFerdousPrapty&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilaFerdousPrapty&layout=compact&theme=radical)
+![](https://komarev.com/ghpvc/?username=NabilaFerdousPrapty&style=flat-square)
 
 ---
 
