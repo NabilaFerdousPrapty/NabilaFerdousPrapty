@@ -64,7 +64,7 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
 
 ## Contact Me
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/nabila-ferdous-prapty/)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](www.linkedin.com/in/nabila-ferdous)
 [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](http://discordapp.com/users/980519241738489917)
 [![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@nabilaprapty5408)
 
