@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm Nabila Ferdous Prapty! 👋</p>
 
 
-<img src="https://i.ibb.co/WfBWgbY/White-Minimalist-Profile-Linked-In-Banner.png" alt="Banner Image" style="max-width: 100%; height: auto;">
+<img src="https://github.com/NabilaFerdousPrapty/NabilaFerdousPrapty/images/NabilaFerdous.gif" alt="Banner Image" style="max-width: 100%; height: auto;">
 
 
 
