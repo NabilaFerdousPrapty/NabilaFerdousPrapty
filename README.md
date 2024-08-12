@@ -29,11 +29,11 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
 
 ## Familiar Technologies
 
-
+#### FrontEnd
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;">
     <img src="https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952yehfpm7f3rtcd302yll171oepwriu70ygwlmskh0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="React" width="100" height="100">
-    <img src="https://lordicon.com/icons/wired/flat/1321-html-5-code-language.gif" alt="HTML5" width="100" height="100">
+    <img src="https://i.ibb.co/K6Fz6Cp/DEnd-unscreen.gif" alt="HTML5" width="100" height="100">
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="100" height="100">
     <img src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" alt="JavaScript" width="100" height="100">
     <img src="https://trapfether.gallerycdn.vsassets.io/extensions/trapfether/tailwind-raw-reorder/3.2.0/1706903284985/Microsoft.VisualStudio.Services.Icons.Default" alt="Tailwind CSS" width="100" height="100">
@@ -77,9 +77,9 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
 <!--     <img src="https://futurestartup.b-cdn.net/wp-content/uploads/2018/02/SSL-commerz-Web_GIF-1.gif" alt="SSLCOMMERZ" width="150" height="150"> -->
 </div>
 
-### Social Media
 
-## Contact Me
+
+## Contact Me on social media
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nabila-ferdous">
