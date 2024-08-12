@@ -111,7 +111,7 @@ I'm always open to collaborating on exciting projects and embracing new challeng
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabilaFerdousPrapty&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilaFerdousPrapty&layout=compact&theme=radical)
 ![](https://komarev.com/ghpvc/?username=NabilaFerdousPrapty&style=flat-square)
-![Snake animation](https://raw.githubusercontent.com/NabilaFerdousPrapty/NabilaFerdousPrapty/main/snake.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/NabilaFerdousPrapty/NabilaFerdousPrapty/main/snake.svg) -->
 
 ---
 
