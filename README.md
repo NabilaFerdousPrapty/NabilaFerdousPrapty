@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm Nabila Ferdous Prapty! 👋</p>
 
 
-<img src="https://raw.githubusercontent.com/NabilaFerdousPrapty/NabilaFerdousPrapty/main/images/NabilaFerdous.gif" alt="Banner Image" style="max-width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/NabilaFerdousPrapty/NabilaFerdousPrapty/main/images/NabilaFerdousBanner.gif" alt="Banner Image" style="max-width: 100%; height: auto;">
 
 
 
@@ -111,6 +111,7 @@ I'm always open to collaborating on exciting projects and embracing new challeng
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabilaFerdousPrapty&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilaFerdousPrapty&layout=compact&theme=radical)
 ![](https://komarev.com/ghpvc/?username=NabilaFerdousPrapty&style=flat-square)
+![Snake animation](https://raw.githubusercontent.com/NabilaFerdousPrapty/NabilaFerdousPrapty/main/snake.svg)
 
 ---
 
