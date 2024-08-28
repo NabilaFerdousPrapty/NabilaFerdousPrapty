@@ -67,9 +67,9 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
     <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" alt="Git" width="100" height="100">
     <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" alt="GitHub" width="100" height="100">
-    <img src="https://lordicon.com/icons/wired/lineal/1330-rest-api.gif" alt="REST APIs" width="100" height="100">
+    <img src="https://media.lordicon.com/icons/wired/flat/1330-rest-api.gif" alt="REST APIs" width="100" height="100">
     <img src="https://ih1.redbubble.net/image.344706868.3811/tst,small,845x845-pad,1000x1000,f8f8f8.u3.jpg" alt="ES6" width="100" height="100">
-    <img src="https://lordicon.com/icons/wired/gradient/1320-json.gif" alt="JSON" width="100" height="100">
+    <img src="https://media.lordicon.com/icons/wired/flat/1320-json.gif" alt="JSON" width="100" height="100">
     <img src="https://lh4.googleusercontent.com/proxy/WLvt5lbV4YdD7eQoXkM3QKjG_Yh-vtqit6hort3OmEnx7NCBKE3MZASCr4iWlqVGIt1_OjIBtTMJuzzYjLJbpxObKUPVC4qgewnxV3T4GMKk-uBuahUAKJs" alt="JWT" width="100" height="100">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTyuFXQDDOUPdafq8kkiBQ1Ai-ovU_avXecDIkszkPTeOxZ5R8H8g99xl6vRfQH-w4BA&usqp=CAU" alt="Axios" width="100" height="100">
     <img src="https://tanstack.com/_build/assets/og-pGgYlhyc.png" alt="TanStack Query" width="100" height="100">
