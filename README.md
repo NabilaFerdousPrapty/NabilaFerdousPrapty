@@ -72,7 +72,7 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
     <img src="https://media.lordicon.com/icons/wired/flat/1320-json.gif" alt="JSON" width="100" height="100">
     <img src="https://lh4.googleusercontent.com/proxy/WLvt5lbV4YdD7eQoXkM3QKjG_Yh-vtqit6hort3OmEnx7NCBKE3MZASCr4iWlqVGIt1_OjIBtTMJuzzYjLJbpxObKUPVC4qgewnxV3T4GMKk-uBuahUAKJs" alt="JWT" width="100" height="100">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTyuFXQDDOUPdafq8kkiBQ1Ai-ovU_avXecDIkszkPTeOxZ5R8H8g99xl6vRfQH-w4BA&usqp=CAU" alt="Axios" width="100" height="100">
-    <img src="https://tanstack.com/_build/assets/og-pGgYlhyc.png" alt="TanStack Query" width="100" height="100">
+    <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" alt="TanStack Query" width="100" height="100">
     <img src="https://cdn.dribbble.com/users/920/screenshots/3031540/untitled-3.gif" alt="Stripe" width="100" height="100">
 <!--     <img src="https://futurestartup.b-cdn.net/wp-content/uploads/2018/02/SSL-commerz-Web_GIF-1.gif" alt="SSLCOMMERZ" width="150" height="150"> -->
 </div>
