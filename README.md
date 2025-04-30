@@ -34,6 +34,7 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;">
     <img src="https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952yehfpm7f3rtcd302yll171oepwriu70ygwlmskh0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="React" width="100" height="100">
     <img src="https://i.ibb.co/K6Fz6Cp/DEnd-unscreen.gif" alt="HTML5" width="100" height="100">
+    <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="AlpineJs" width="100" height="100">
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="100" height="100">
     <img src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" alt="JavaScript" width="100" height="100">
     <img src="https://trapfether.gallerycdn.vsassets.io/extensions/trapfether/tailwind-raw-reorder/3.2.0/1706903284985/Microsoft.VisualStudio.Services.Icons.Default" alt="Tailwind CSS" width="100" height="100">
@@ -72,7 +73,7 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
     <img src="https://media.lordicon.com/icons/wired/flat/1320-json.gif" alt="JSON" width="100" height="100">
     <img src="https://lh4.googleusercontent.com/proxy/WLvt5lbV4YdD7eQoXkM3QKjG_Yh-vtqit6hort3OmEnx7NCBKE3MZASCr4iWlqVGIt1_OjIBtTMJuzzYjLJbpxObKUPVC4qgewnxV3T4GMKk-uBuahUAKJs" alt="JWT" width="100" height="100">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTyuFXQDDOUPdafq8kkiBQ1Ai-ovU_avXecDIkszkPTeOxZ5R8H8g99xl6vRfQH-w4BA&usqp=CAU" alt="Axios" width="100" height="100">
-    <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" alt="TanStack Query" width="100" height="100">
+<!--     <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" alt="TanStack Query" width="100" height="100"> -->
     <img src="https://cdn.dribbble.com/users/920/screenshots/3031540/untitled-3.gif" alt="Stripe" width="100" height="100">
 <!--     <img src="https://futurestartup.b-cdn.net/wp-content/uploads/2018/02/SSL-commerz-Web_GIF-1.gif" alt="SSLCOMMERZ" width="150" height="150"> -->
 </div>
