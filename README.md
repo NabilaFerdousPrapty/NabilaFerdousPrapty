@@ -37,6 +37,7 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
     <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="AlpineJs" width="100" height="100">
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="100" height="100">
     <img src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" alt="JavaScript" width="100" height="100">
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png" alt="TypeScript" width="100" height="100">
     <img src="https://trapfether.gallerycdn.vsassets.io/extensions/trapfether/tailwind-raw-reorder/3.2.0/1706903284985/Microsoft.VisualStudio.Services.Icons.Default" alt="Tailwind CSS" width="100" height="100">
     <img src="https://miro.medium.com/v2/resize:fit:512/1*6fzxZyDPD_8RRsmHpQr-vw.gif" alt="Bootstrap" width="100" height="100">
 </div>
