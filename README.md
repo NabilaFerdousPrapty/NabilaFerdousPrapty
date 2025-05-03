@@ -33,7 +33,7 @@ Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;">
     <img src="https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952yehfpm7f3rtcd302yll171oepwriu70ygwlmskh0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="React" width="100" height="100">
-    <img src="https://i.ibb.co/K6Fz6Cp/DEnd-unscreen.gif" alt="HTML5" width="100" height="100">
+    <img src="https://i.ibb.co.com/357FvPmB/html-1.gif" alt="HTML5" width="100" height="100">
     <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="AlpineJs" width="100" height="100">
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="100" height="100">
     <img src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" alt="JavaScript" width="100" height="100">
