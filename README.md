@@ -17,7 +17,7 @@
             </p>
         </td>
         <td style="width: 50%; vertical-align: top;">
-            <img src="https://i.ibb.co.com/w7m3zzG/output-onlinegiftools-1.gif" alt="Banner Image" style="max-height: 200px; width: 100%;">
+            <img src="https://github.com/NabilaFerdousPrapty/NabilaFerdousPrapty/blob/main/images/bannerImg.gif" alt="Banner Image" style="max-height: 200px; width: 100%;">
         </td>
     </tr>
 </table>
