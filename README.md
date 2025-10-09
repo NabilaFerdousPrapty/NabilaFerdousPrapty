@@ -25,7 +25,11 @@
 
 ## About Me
 
-Hey there, I'm Nabila Ferdous, an Electrical and Computer Engineering student at RUET with a knack for turning ideas into reality. My passion for technology drives me to constantly evolve and adapt. As a Front-End Developer, I specialize in crafting beautiful and functional web experiences using HTML, CSS, JavaScript, and modern frameworks like React JS. My backend skills include working with Express JS and MongoDB, allowing me to create full-stack applications that solve real-world problems.
+Hi, I’m Nabila Ferdous Prapty, a passionate MERN Stack Developer dedicated to creating impactful, user-focused web applications. With hands-on experience in Next.js React.js, Node.js, Express.js, and MongoDB, I enjoy turning ideas into full-fledged digital solutions.
+
+Over the past months, I’ve developed multiple projects — from a career development platform to an e-commerce catalog system — each reflecting my curiosity, creativity, and commitment to continuous learning. Beyond code, I’m driven by a mission to build technology that empowers people and addresses real social challenges in Bangladesh and beyond.
+
+I believe in clean code, meaningful design, and collaboration — because innovation grows strongest when shared.
 
 ## Familiar Technologies
 
@@ -124,3 +128,4 @@ I'm always open to collaborating on exciting projects and embracing new challeng
 ## Thank you for visiting my GitHub profile! 🙌
 
 Feel free to explore my repositories and reach out if you'd like to collaborate. Happy coding! 🚀
+
