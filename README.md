@@ -25,7 +25,7 @@
 
 ## About Me
 
-Hi, I’m Nabila Ferdous Prapty, a passionate MERN Stack Developer dedicated to creating impactful, user-focused web applications. With hands-on experience in Next.js React.js, Node.js, Express.js, and MongoDB, I enjoy turning ideas into full-fledged digital solutions.
+Hi, I’m Nabila Ferdous Prapty, a passionate MERN Stack Developer dedicated to creating impactful, user-focused web applications and AI ML r enthugiastic. With hands-on experience in Next.js React.js, Node.js, Express.js, and MongoDB, I enjoy turning ideas into full-fledged digital solutions.
 
 Over the past months, I’ve developed multiple projects — from a career development platform to an e-commerce catalog system — each reflecting my curiosity, creativity, and commitment to continuous learning. Beyond code, I’m driven by a mission to build technology that empowers people and addresses real social challenges in Bangladesh and beyond.
 
@@ -128,4 +128,5 @@ I'm always open to collaborating on exciting projects and embracing new challeng
 ## Thank you for visiting my GitHub profile! 🙌
 
 Feel free to explore my repositories and reach out if you'd like to collaborate. Happy coding! 🚀
+
 
